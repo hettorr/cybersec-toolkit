@@ -25,4 +25,4 @@ Cybersecurity Engineering student focused on networking, protocols, and building
 _Coming soon — writeups from platforms like TryHackMe / picoCTF / HackTheBox will be linked here as I complete them._
 
 ## 📫 Connect
-- LinkedIn: [Denys Trunov](https://linkedin.com/in/your-profile-slug)
+- LinkedIn: [Denys Trunov](www.linkedin.com/in/denys-trunov-30b142431)
